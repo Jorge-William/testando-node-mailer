@@ -13,7 +13,7 @@
 //         auth: {
 //             // TODO: replace `user` and `pass` values from <https://forwardemail.net>
 //             user: 'jorge.furtado@sinergiaeducacao.com.br',
-//             pass: 'JW2019dan132',
+//             pass: '',
 //         },
 //     } );
 
